@@ -67,7 +67,6 @@ for h=0,23 do
 update_time:value(h,h..":00")
 end
 update_time.default = "7"
-update_time.rmempty = false
 
 updatead = s:taboption("advanced", Button, "updatead", translate("Manually force update<br />Adblock Plus Host List"), translate("Note: It needs to download and convert the rules. The background process may takes 60-120 seconds to run. <br / > After completed it would automatically refresh, please do not duplicate click!"))
 updatead.inputtitle = translate("Manually force update")
