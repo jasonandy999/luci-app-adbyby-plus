@@ -59,11 +59,12 @@ o = s:taboption("advanced", Flag, "cron_mode")
 o.title = translate("Update the rule every day and restart adbyby")
 o.default = 0
 o.rmempty = false
-o.description = translate(string.format("<strong><font color=blue>Adblock Plus Host List：</font></strong> %s Lines<br /><br />", ND))
+o.description = translate(string.format("<strong><font color=blue>Adblock Plus Host List：</font></strong> %s Lines<br />", ND))
 
-update_time = s:option(ListValue, "update_time", translate("Set time to auto update"))
-for h = 0,23 do
-update_time:value(h, h..":00")
+update_time=s:taboption("advanced",ListValue,"update_time")
+update_time.title=translate("Set time to auto update")
+for h=0,23 do
+update_time:value(h,h..":00")
 end
 update_time.default = "7"
 update_time.rmempty = false
