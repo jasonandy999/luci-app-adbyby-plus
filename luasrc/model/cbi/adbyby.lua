@@ -61,7 +61,7 @@ o.default = 0
 o.rmempty = false
 o.description = translate(string.format("<strong><font color=blue>Adblock Plus Host List：</font></strong> %s Lines<br /><br />", ND))
 
-update_time = s:option(ListValue, "update_time", translate("auto update time"))
+update_time = s:option(ListValue, "update_time", translate("set auto update time"))
 for h = 0,23 do
 update_time:value(h, h..":00")
 end
