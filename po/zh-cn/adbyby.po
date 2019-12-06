@@ -59,8 +59,11 @@ msgstr "IP黑名单"
 msgid "Advance Setting"
 msgstr "高级设置"
 
-msgid "Update the rule at 6 a.m. every morning and restart adbyby"
-msgstr "每天凌晨6点更新规则并重启"
+msgid "Update the rule every day and restart adbyby"
+msgstr "每天自动更新规则并重启"
+
+msgid "Set time to auto update"
+msgstr "设置自动更新的时间"
 
 msgid "Manually force update<br />Adblock Plus Host List"
 msgstr "手动强制更新<br />Adblock Plus Host List"
