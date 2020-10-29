@@ -1,17 +1,17 @@
 msgid "ADBYBY Plus +"
-msgstr "广告屏蔽大师 Plus+"
+msgstr "广告屏蔽"
 
 msgid "<strong><font color=\"green\">Adbyby Plus + is Running</font></strong>"
-msgstr "<strong><font color=\"green\">广告屏蔽大师 Plus + 正在运行</font></strong>"
+msgstr "<strong><font color=\"green\">广告屏蔽 正在运行</font></strong>"
 
 msgid "<strong><font color=\"red\">Adbyby Plus + is Not Running</font></strong>"
-msgstr "<strong><font color=\"red\">广告屏蔽大师 Plus + 没有运行</font></strong>"
+msgstr "<strong><font color=\"red\">广告遮蔽 没有运行</font></strong>"
 
 msgid "Adbyby Plus + can filter all kinds of banners, popups, video ads, and prevent tracking, privacy theft and a variety of malicious websites<br /><font color=\"red\">Plus + version combination mode can operation with Adblock Plus Host，filtering ads without losing bandwidth</font>"
-msgstr "广告屏蔽大师 Plus + 可以全面过滤各种横幅、弹窗、视频广告，同时阻止跟踪、隐私窃取及各种恶意网站<br /><font color=\"red\">Plus + 版本可以和 Adblock Plus Host 结合方式运行，过滤广告不损失带宽</font>"
+msgstr "广告屏蔽 可以全面过滤各种横幅、弹窗、视频广告，同时阻止跟踪、隐私窃取及各种恶意网站<br /><font color=\"red\">Plus + 版本可以和 Adblock Plus Host 结合方式运行，过滤广告不损失带宽</font>"
 
 msgid "Adbyby Plus +"
-msgstr "广告屏蔽大师 Plus+"
+msgstr "广告屏蔽"
 
 msgid "Base Setting"
 msgstr "基本设置"
