@@ -1,5 +1,8 @@
-msgid "ADBYBY Plus +"
+msgid "广告屏蔽大师 Plus+"
 msgstr "广告屏蔽"
+
+msgid "ADBYBY Plus +"
+msgstr "广告屏蔽大师"
 
 msgid "<strong><font color=\"green\">Adbyby Plus + is Running</font></strong>"
 msgstr "<strong><font color=\"green\">广告屏蔽 正在运行</font></strong>"
